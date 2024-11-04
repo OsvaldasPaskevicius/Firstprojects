@@ -5,5 +5,6 @@ public class Main {
         int intOne = 200;
         long longOne = 50000;
         System.out.println((numberOne + shortOne + intOne * 10) + longOne);
+        System.out.println("Testuojam commit");
     }
 }
